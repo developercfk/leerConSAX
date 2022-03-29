@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<repertoire>
+<contact id="1">
+<nom>Fokoua</nom>
+<prenom>Christian</prenom>
+<mobile>691355811</mobile>
+<email>chris@gmail.com</email>
+</contact>
+
+<contact id="2">
+<nom>Bodjaka</nom>
+<prenom>danielle</prenom>
+<mobile>69600</mobile>
+<email>danielle@gmail.com</email>
+</contact>
+
+</repertoire>

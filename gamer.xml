@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gamers>
+<gamer>
+<apodo>Ocelote</apodo>
+<nombre>Carlos Rámirez</nombre>
+<videjuego>League of Legends</videjuego>
+<edad>24</edad>
+<origen>español</origen>
+</gamer>
+<gamer>
+<apodo>Dendi</apodo>
+<nombre>Danil Ishutin</nombre>
+<videjuego>Dota 2</videjuego>
+<edad>25</edad>
+<origen>ucraniano</origen>
+</gamer>
+<gamer>
+<apodo>Puppey</apodo>
+<nombre>Clement Ivanov</nombre>
+<videjuego>Dota 2</videjuego>
+<edad>29</edad>
+<origen>estonio</origen>
+</gamer>
+</gamers>
